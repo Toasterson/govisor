@@ -3,7 +3,7 @@ module github.com/gdamore/govisor
 go 1.14
 
 require (
-	github.com/gdamore/tcell v1.3.0
+	github.com/gdamore/tcell v1.4.0
 	github.com/gorilla/mux v1.7.4
 	github.com/smartystreets/goconvey v1.6.4
 	golang.org/x/crypto v0.0.0-20200403201458-baeed622b8d8
